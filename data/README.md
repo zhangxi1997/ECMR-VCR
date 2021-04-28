@@ -26,6 +26,4 @@ unzip vcr1annots.zip
     * `https://drive.google.com/open?id=1Ersqwo1Qiqd-DLf8gWYoitu1GDQFeK82`
     * `https://drive.google.com/open?id=1EU64oGB1LHz_jjtawmCAMJeaYzftoks1`
 
-3. The triples are parsed using code in [SceneGraphParser](https://github.com/vacancy/SceneGraphParser), which is inspired by the [Stanford Scene Graph Parser](https://nlp.stanford.edu/software/scenegraph-parser.shtml). You can download the parsed triplets from:
-    * `https://drive.google.com/file/d/1tIQDQ0xQHhyRETsL05EOBcTidZNT7nYJ/view?usp=sharing`
-    * `https://drive.google.com/file/d/1NFq0BHYLqnY5SlfOIBJUavu9M53zBbbW/view?usp=sharing`
+3. The triples are parsed using code in [SceneGraphParser](https://github.com/vacancy/SceneGraphParser), which is inspired by the [Stanford Scene Graph Parser](https://nlp.stanford.edu/software/scenegraph-parser.shtml). 
