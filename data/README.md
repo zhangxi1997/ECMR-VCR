@@ -18,12 +18,6 @@ unzip vcr1annots.zip
     * `https://s3-us-west-2.amazonaws.com/ai2-rowanz/r2c/bert_da_answer_test.h5`
     * `https://s3-us-west-2.amazonaws.com/ai2-rowanz/r2c/bert_da_rationale_test.h5`
 
-2. Pre-trained attribute capturing visual representations are generated using code in [Bottom Up Attention](https://github.com/peteanderson80/bottom-up-attention), released by paper [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering, Peter Anderson et al., 2018](https://arxiv.org/abs/1707.07998):
-    * `https://drive.google.com/open?id=19e4tM7yfWViKFe0zH2VpHKkIBwfGbZYL`
-    * `https://drive.google.com/open?id=1xcfYOkyTJY0m89Xa8vbYCRdbFag26l5_`
-    * `https://drive.google.com/open?id=1FLIsHK7-QEWPEjy0LfXSrQlmRqRziKCc`
-    * `https://drive.google.com/open?id=1fSWPmZJ2pf_0uBntJRdjiI47a76FRRtF`
-    * `https://drive.google.com/open?id=1Ersqwo1Qiqd-DLf8gWYoitu1GDQFeK82`
-    * `https://drive.google.com/open?id=1EU64oGB1LHz_jjtawmCAMJeaYzftoks1`
+2. Pre-trained attribute capturing visual representations are generated using code in [Bottom Up Attention](https://github.com/peteanderson80/bottom-up-attention), released by paper [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering, Peter Anderson et al., 2018](https://arxiv.org/abs/1707.07998)
 
 3. The triples are parsed using code in [SceneGraphParser](https://github.com/vacancy/SceneGraphParser), which is inspired by the [Stanford Scene Graph Parser](https://nlp.stanford.edu/software/scenegraph-parser.shtml). 
