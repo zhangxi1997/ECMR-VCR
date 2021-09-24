@@ -1,4 +1,6 @@
-# The Code for paper "Explicit Cross-Modal Reasoning for Visual Commonsense Reasoning"
+# Explicit Cross-Modal Reasoning for Visual Commonsense Reasoning
+
+The Code for IEEE TMM paper "Explicit Cross-Modal Reasoning for Visual Commonsense Reasoning"
 
 ## Setting up and using the repo
 
@@ -32,6 +34,18 @@ pip uninstall pillow && CC="cc -mavx2" pip install -U --force-reinstall pillow-s
 ## Train/Evaluate models
 Please refer to `models/README.md`.
 
+## Citations
+If you make use of this repository for your research, please cite the following paper:
+
+```
+@article{zhang2021explicit,
+  title={Explicit Cross-Modal Representation Learning for Visual Commonsense Reasoning},
+  author={Zhang, Xi and Zhang, Feifei and Xu, Changsheng},
+  journal={IEEE Transactions on Multimedia},
+  year={2021},
+  publisher={IEEE}
+}
+```
 
 ## Acknowledgement
 - We refer to the repo [r2c](https://github.com/rowanz/r2c/) and [tab-vcr](https://github.com/Deanplayerljx/tab-vcr) for preprocessing codes.
